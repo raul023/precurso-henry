@@ -1,2 +1,1 @@
-# precurso-henry
-este es un repositorio de prueba del precurso de henry
+esta es una prueba de como clonar de hibhub a mi computadora
